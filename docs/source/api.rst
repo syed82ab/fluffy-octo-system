@@ -4,5 +4,5 @@ API
 .. autosummary::
    :toctree: generated
 
-   key_request
+   keys
    lumache
