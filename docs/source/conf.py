@@ -13,7 +13,7 @@ version = '0.1.0'
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../../lumache/'))
-sys.path.insert(0, os.path.abspath('../../rest/'))
+sys.path.insert(0, os.path.abspath('../../rest/app'))
 
 extensions = [
     'sphinx.ext.duration',
